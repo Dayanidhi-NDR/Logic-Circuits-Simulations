@@ -1,0 +1,17 @@
+# NAND Gate Simulation
+
+**Aim:** To verify NAND gate.
+
+**Expected Output:**
+- 00 → 1
+- 01 → 1
+- 10 → 1
+- 11 → 0
+
+**Actual Output:**
+- 00 → 1 ✓
+- 01 → 1 ✓
+- 10 → 1 ✓
+- 11 → 0 ✓
+
+**Result:** NAND gate verified successfully.
