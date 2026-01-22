@@ -1,5 +1,5 @@
 # Half Adder
-## A Half Adder adds two 1-bit binary numbers.##
+## A Half Adder adds two 1-bit binary numbers. ##
 
 ## Inputs: ##
 A
