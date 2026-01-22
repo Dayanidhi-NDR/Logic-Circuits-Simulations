@@ -1,16 +1,22 @@
 # Half Adder
-## A Half Adder adds two 1-bit binary numbers. ##
+A Half Adder adds two 1-bit binary numbers. 
 
-## Inputs: ##
+## Inputs: 
+
 A
+
 B
 
-## Outputs: ##
+## Outputs: 
+
 Sum (S)
+
 Carry (C)
-Operation:
+
+# Operation:
 
 Sum = A XOR B
+
 Carry = A AND B
 
 ## Software used ##
